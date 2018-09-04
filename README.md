@@ -4,7 +4,6 @@ util for encoding list of images into video
 
 !pip install moviepy
 
-### 5. 인퍼런스 랜더링
 import glob
 import os
 
